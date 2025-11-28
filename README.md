@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 Link do site: Gato de Schrödinger
 https://gatodeschrodinger.netlify.app
 <!--<!DOCTYPE html>
